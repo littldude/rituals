@@ -677,6 +677,12 @@ a {
   .text--buy {
     font-size: 28px;
   }
+  .text--autor {
+    line-height: 26px;
+  }
+  .text--violet {
+    padding: 2px 4px;
+  }
 
   .button--buy {
     width: 100%;
